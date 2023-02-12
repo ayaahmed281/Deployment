@@ -29,7 +29,6 @@ jobs:
       - run:
           name: Install API Dependencies
           command: |
-           command: |
             echo "NODE --version" 
             echo $(node --version)
             echo "NPM --version" 
