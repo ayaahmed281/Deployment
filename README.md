@@ -4,7 +4,7 @@
 
 ---
 ## Deplyed App URL :) http://aya-udagram.s3-website.us-east-2.amazonaws.com
-![image](https://user-images.githubusercontent.com/21292656/218339104-d1948018-23e0-43ca-a4ac-deee3d8e19bc.png)
+![image](https://user-images.githubusercontent.com/21292656/218339314-89759236-1508-40db-9feb-fa699de0dc8a.png)
 
 ## s3 bucket for deploy FE
 ![s3](https://user-images.githubusercontent.com/21292656/218339151-c694514c-938f-4de0-9ab2-bbca619d62cf.PNG)
