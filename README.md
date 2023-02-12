@@ -4,8 +4,19 @@
 
 ---
 ## Deplyed App URL :) http://aya-udagram.s3-website.us-east-2.amazonaws.com
+![image](https://user-images.githubusercontent.com/21292656/218339104-d1948018-23e0-43ca-a4ac-deee3d8e19bc.png)
 
-image.png
+## s3 bucket for deploy FE
+![s3](https://user-images.githubusercontent.com/21292656/218339151-c694514c-938f-4de0-9ab2-bbca619d62cf.PNG)
+
+## Elastic beanstlak for deploy BE
+![elastic](https://user-images.githubusercontent.com/21292656/218339194-65f5102d-5a97-42e8-a964-1291320acedd.PNG)
+
+## RDS  for create Database
+![rds](https://user-images.githubusercontent.com/21292656/218339227-9d63b6d8-d6e6-495c-bec6-7add2d9a6d82.PNG)
+
+## Test Data base connection
+![image](https://user-images.githubusercontent.com/21292656/218339001-76b4d3c5-f0e8-409c-bc7b-f1a3121dc2c1.png)
 
 
 In this project you will learn how to take a newly developed Full-Stack application built for a retailer and deploy it to a cloud service provider so that it is available to customers. You will use the aws console to start and configure the services the application needs such as a database to store product information and a web server allowing the site to be discovered by potential customers. You will modify your package.json scripts and replace hard coded secrets with environment variables in your code.
