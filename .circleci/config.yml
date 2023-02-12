@@ -67,7 +67,7 @@ jobs:
             echo "# TODO: Install, build, deploy in both apps"
   #    trteb al job      
 workflows:
-  udagram:
+  aya-udagram:
     jobs:
       - build
       - hold:
