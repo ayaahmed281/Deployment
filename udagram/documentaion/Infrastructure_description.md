@@ -9,7 +9,7 @@ Frontend  ==> S3 bucket
 Database to store the application data ==> RDS
 
 
-nfrastructure Description
+## Infrastructure Description
 Overview
 Udagram is a full-stack application that provides a web-based interface to its users. The application is composed of a backend API server built with Node.js and a frontend web app built using Angular. These two components work together to provide a seamless experience to the users. The infrastructure for this application is hosted on Amazon Web Services (AWS) and uses a variety of services to ensure reliability, scalability, and security.
 
