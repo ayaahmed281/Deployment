@@ -3,7 +3,7 @@
 ### **You can use you own project completed in previous courses or use the provided Aya Udagram app for completing this final project.**
 
 ---
-## Deplyed App URL :) http://aya-udagram.s3-website.us-east-2.amazonaws.com
+## Deplyed App URL :) [http://aya-udagram.s3-website.us-east-2.amazonaws.com](http://aya-udagram-y.s3-website.us-east-2.amazonaws.com/)
 ![image](https://user-images.githubusercontent.com/21292656/218339314-89759236-1508-40db-9feb-fa699de0dc8a.png)
 
 ## s3 bucket for deploy FE
